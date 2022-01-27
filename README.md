@@ -1,2 +1,15 @@
-# Blog-App-Stage-2
-Blog app project
+/* package for expo */
+npm install expo
+
+/* create new project */
+
+expo init projec-name ./
+
+/* any packages install */
+npm install package-name
+
+/*  visit my youtube channel  */
+
+RK PROGRAMING 10K
+
+href="https://www.youtube.com/channel/UCqoQZb7Wjv3dD-gNfk3uxXg"
